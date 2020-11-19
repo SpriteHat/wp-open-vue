@@ -6,12 +6,12 @@
           name: 'home'
         }"
       >
-        WP Vue
+        VlogMeUp2TheSkyline
       </router-link>
     </h1>
 
     <div>
-      <p>
+      <!--  <p>
         Currently presenting content from
         <a :href="sourceURL">{{ splitEndpoint[2] }}</a
         >.
@@ -19,7 +19,7 @@
 
       <button @click="showUpdater">
         Change Endpoint
-      </button>
+      </button>-->
     </div>
   </nav>
 </template>
