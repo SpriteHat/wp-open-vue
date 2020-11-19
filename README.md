@@ -1,6 +1,10 @@
-# WP Vue
+WP Vue > WP Open Vue
+Testing here how to git / node / vue + wp rest api
+
+Please if you are looking for the original project "WP VUE" follow the link (https://github.com/alexmacarthur/wp-vue).
 
 [![Build Status](https://travis-ci.org/alexmacarthur/wp-vue.svg?branch=master)](https://travis-ci.org/alexmacarthur/wp-vue) [![Netlify Status](https://api.netlify.com/api/v1/badges/87ff7587-b7b2-4828-965c-97e606b81013/deploy-status)](https://app.netlify.com/sites/wp/deploys)
+
 
 This is just a simple Vue application (scaffolded using the [Vue CLI](https://cli.vuejs.org/)) that pulls posts from a WordPress REST API endpoint. Clone or fork this sucka & rip it apart to suit your own needs. If you have ideas to make it better for everyone else, contribute!
 
